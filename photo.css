@@ -1,0 +1,22 @@
+.project1 img{
+    width: 300px;
+    grid-area: photo;
+    display: flex;
+    box-shadow: 2px 2px 20px 5px #374143;
+}
+.project2 img{
+    width: 300px;
+    grid-area: photo;
+    box-shadow: 2px 2px 20px 5px #374143;
+}
+.project3 img{
+    width: 300px;
+    grid-area: photo;
+    box-shadow: 2px 2px 20px 5px #374143;
+}
+img{
+    width: 300px;
+    grid-area: photo;   
+    margin: auto;
+    box-shadow: 2px 2px 20px 5px #374143;
+}
